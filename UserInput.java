@@ -8,5 +8,6 @@ System.out.println("Enter two numbers");
 int a=input.nextInt();
 int b=input.nextInt();
 int c=a+b;
-System.out.println("The Sum Of " +a+ " and " +b+ " is "+c);
+  int d=a*b;
+System.out.println("The Sum Of " +a+ " and " +b+ " is "+c+ "multiplication of a*b is ="+d);
 }}
